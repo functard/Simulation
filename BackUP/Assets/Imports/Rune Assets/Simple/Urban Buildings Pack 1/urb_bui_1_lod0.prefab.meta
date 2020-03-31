@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4b1b82775d244874d863af8f0016895f
+labels:
+- Architecture
+- Building
+- Urban
+- City
+- Town
+- House
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: building
+  assetBundleVariant: 

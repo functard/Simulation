@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: dd60f799ddd85c042ae8297f6dc668c0
+labels:
+- Building
+- Architecture
+- Town
+- City
+- Corner
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
